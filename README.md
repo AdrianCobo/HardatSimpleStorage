@@ -16,7 +16,7 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-This repo follow the lesson 5 from the course course developed by Patrick Collins and FreeCodeCamp.
+This repo follows the lesson 5 from the course course developed by Patrick Collins and FreeCodeCamp.
 
 Course: https://www.youtube.com/watch?v=gyMwXuJrbJQ
 
